@@ -1,4 +1,4 @@
-# forms-python
+# lazarus-ai
 Lazarus Forms API Python Library
 
 ## Setup instructions
