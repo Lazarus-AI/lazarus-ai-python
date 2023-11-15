@@ -8,7 +8,7 @@ setup(
   author = 'Caroline Abel, KK Barrows, Alvin Xie',
   author_email = 'caroline@lazarus.enterprises, kathleen@lazarus.enterprises, alvin@lazarus.enterprises',
   url = 'https://www.lazarusforms.com/',
-  download_url = 'https://github.com/kathleenbarrows/lazarus-ai-python/archive/v1.0.0.tar.gz',
+  download_url = 'https://github.com/Lazarus-AI/lazarus-ai-python/archive/refs/tags/v1.0.0.tar.gz',
   install_requires=[
           'requests',
           'stringcase',
