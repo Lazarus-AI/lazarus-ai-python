@@ -12,7 +12,12 @@ setup(
   install_requires=[
           'requests',
           'stringcase',
-      ],
+  ],
+  project_urls={
+    "Bug Tracker": "https://github.com/Lazarus-AI/lazarus-ai-python/issues",
+    "Documentation": "https://lazarus.stoplight.io/docs/lazarus-forms/welcome",
+    "Source Code": "https://github.com/Lazarus-AI/lazarus-ai-python",
+  },
   classifiers=[
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
