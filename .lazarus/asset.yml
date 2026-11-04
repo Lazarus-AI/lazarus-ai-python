@@ -1,0 +1,5 @@
+owner:
+  team: team-engineering
+product: aie
+component: python-sdk
+type: sdk
